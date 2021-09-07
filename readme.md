@@ -1,7 +1,9 @@
-##### DevPremier Contact Package
+<img src="https://www.devpremier.com/theme/images/DevPremierLogo-2WHITEBG.png" />
+
+##### DevPremier Contact Page Test Package
 ```
 composer require devpremierinfotech/contact
-```` 
+
 php artisan vendor:publish --tag=devpremier-contact
 ````
 

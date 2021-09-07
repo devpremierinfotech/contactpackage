@@ -24,7 +24,7 @@
             "url": "https://www.patreon.com/ashwanigarg"
         }
     ],
-    "autoload-dev": {
+    "autoload": {
         "psr-4": {
             "Devpremierinfotech\\Contact\\" : "src/"
         }

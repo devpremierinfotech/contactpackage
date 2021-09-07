@@ -21,7 +21,10 @@ class ContactServiceProvider extends ServiceProvider {
    }
 
    public function register(){
-
+       $this->publishes([
+           // __DIR__.'/config/contact.php' => resource_path('lang/vendor/courier'),
+           __DIR__.'/config/contact.php' => config_path('contact.php'),
+       ], 'devpremier-contact');
    }
 
 }

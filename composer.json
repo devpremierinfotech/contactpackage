@@ -1,11 +1,10 @@
 {
     "name": "devpremierinfotech/contact",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "license": "MIT",
     "type":"library",
     "minimum-stability": "stable",
     "require": {
-        "paypal/paypal-checkout-sdk": "1.0.1"
     },
     "authors": [
         {

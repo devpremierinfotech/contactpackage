@@ -1,5 +1,6 @@
 ##### DevPremier Contact Package
-
+```
+composer require devpremierinfotech/contact
 ```` 
 php artisan vendor:publish --tag=devpremier-contact
 ````
